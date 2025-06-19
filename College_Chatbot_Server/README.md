@@ -12,3 +12,14 @@ AI-powered chatbot backend for college students with natural language processing
 - JWT authentication
 - Natural language processing for responses
 - Error handling and logging
+
+## Links:
+- Project: 'https://github.com/yashwp20042000/college_chatbot'
+- Frontend Repo:: 'https://github.com/yashwp20042000/college-chatbot-frontend'
+
+## 📦 Installation
+```bash
+git clone https://github.com/yashwp20042000/college_chatbot_backend.git
+cd College_Chatbot_Server
+npm install
+npm run dev
